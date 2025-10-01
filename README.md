@@ -15,7 +15,7 @@ My Library; okuduğunuz, okumayı planladığınız ve yarım bıraktığınız 
 ### Ekran Görüntüleri
 
 🔐 Kimlik Doğrulama
-<div align="center"> <img src="https://github.com/HasanFiratKilic/BookByte/issues/2#issuecomment-3356054460" width="30%" alt="Giriş Ekranı"/> <img src="https://github.com/HasanFiratKilic/BookByte/issues/2#issuecomment-3356055059" width="30%" alt="Kayıt Ekranı"/> </div>
+<div align="center"> <img src="https://github.com/user-attachments/assets/05ab4800-ddfb-4fff-a3f9-4254e623f181"width="30%" alt="Giriş Ekranı"/> <img src="https://github.com/HasanFiratKilic/BookByte/issues/2#issuecomment-3356055059" width="30%" alt="Kayıt Ekranı"/> </div>
 📚 Kitaplık
 <div align="center"> <img src="https://github.com/HasanFiratKilic/BookByte/issues/2#issuecomment-3356055387" width="30%" alt="Boş Kitaplık"/> <img src="https://github.com/HasanFiratKilic/BookByte/issues/2#issuecomment-3356055819" width="30%" alt="Kitap Listesi"/> </div>
 ✨ İşlevler
