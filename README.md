@@ -15,13 +15,13 @@ My Library; okuduğunuz, okumayı planladığınız ve yarım bıraktığınız 
 ### Ekran Görüntüleri
 
 🔐 Kimlik Doğrulama
-<div align="center"> <img src="https://github.com/user-attachments/assets/05ab4800-ddfb-4fff-a3f9-4254e623f181"width="30%" alt="Giriş Ekranı"/> <img src="https://github.com/HasanFiratKilic/BookByte/issues/2#issuecomment-3356055059" width="30%" alt="Kayıt Ekranı"/> </div>
+<div align="center"> <img src="https://github.com/user-attachments/assets/05ab4800-ddfb-4fff-a3f9-4254e623f181"width="30%" alt="Giriş Ekranı"/> <img src="https://github.com/user-attachments/assets/1711eb4a-c446-4033-a24e-cb187b6e27f5"width="30%" alt="Kayıt Ekranı"/> </div>
 📚 Kitaplık
-<div align="center"> <img src="https://github.com/HasanFiratKilic/BookByte/issues/2#issuecomment-3356055387" width="30%" alt="Boş Kitaplık"/> <img src="https://github.com/HasanFiratKilic/BookByte/issues/2#issuecomment-3356055819" width="30%" alt="Kitap Listesi"/> </div>
+<div align="center">  <img src="https://github.com/user-attachments/assets/4e1fa024-a283-47f4-b4c1-175ea97917af" width="30%" alt="Kitap Listesi"/> </div>
 ✨ İşlevler
-<div align="center"> <img src="https://github.com/HasanFiratKilic/BookByte/issues/2#issuecomment-3356056112" width="30%" alt="Kitap Ekleme"/> <img src="https://github.com/HasanFiratKilic/BookByte/issues/2#issuecomment-3356056706" width="30%" alt="Kitap Detay/Güncelleme"/> </div>
+<div align="center"> <img src="https://github.com/user-attachments/assets/bd04fe64-0479-4031-9ed5-c37d1042d3e0" width="30%" alt="Kitap Ekleme"/> <img src="https://github.com/user-attachments/assets/ce1cf8ac-4460-44af-adf4-10bef1e3bb57" width="30%" alt="Kitap Detay/Güncelleme"/> </div>
 ⚙️ Ayarlar & Filtreler
-<div align="center"> <img src="https://github.com/HasanFiratKilic/BookByte/issues/2#issuecomment-3356056112" width="30%" alt="Filtreler"/> <img src="https://github.com/HasanFiratKilic/BookByte/issues/2#issuecomment-3356056706" width="30%" alt="Ayarlar"/> </div>
+<div align="center"> <img src="https://github.com/user-attachments/assets/455aeea2-230b-4b32-9289-844f50be721d" width="30%" alt="Filtreler"/> <img src="https://github.com/user-attachments/assets/339d8e3e-ac40-4fdf-9698-4a59d0307533" width="30%" alt="Ayarlar"/> </div>
 
 ### Teknolojiler
 - **Expo** `~54` ve **React Native** `0.81`
