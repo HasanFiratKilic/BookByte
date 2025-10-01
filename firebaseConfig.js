@@ -6,12 +6,7 @@ import { getDatabase, ref, set,push ,child,get,onValue,update} from "firebase/da
 
 // Firebase yapılandırması
 const firebaseConfig = {
-  apiKey: "AIzaSyBlR0GTS6nlN8Z9k9-scRxLhaxgNYqAFFo",
-  authDomain: "mylibrary-8cd9d.firebaseapp.com",
-  projectId: "mylibrary-8cd9d",
-  storageBucket: "mylibrary-8cd9d.firebasestorage.app",
-  messagingSenderId: "966978448038",
-  appId: "1:966978448038:web:3c515b4f871a313e1a2267",
+  
 };
 
 // Firebase uygulamasını başlat
