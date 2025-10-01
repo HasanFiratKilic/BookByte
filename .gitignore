@@ -1,5 +1,12 @@
 # Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
+# React Native
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
 # dependencies
 node_modules/
 
@@ -8,6 +15,12 @@ node_modules/
 dist/
 web-build/
 expo-env.d.ts
+.expo-shared/
+*.jks
+*.keystore
+
+# Firebase
+firebaseConfig.js  # Firebase yapılandırma dosyanız
 
 # Native
 .kotlin/
@@ -26,6 +39,12 @@ npm-debug.*
 yarn-debug.*
 yarn-error.*
 
+# Android
+android/.gradle/
+android/app/build/
+android/app/src/main/res/mipmap-*/ic_launcher.png
+android/app/src/main/res/mipmap-*/ic_launcher_round.png	
+
 # macOS
 .DS_Store
 *.pem
@@ -39,3 +58,18 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# iOS
+ios/Pods/
+ios/*.xcworkspace
+ios/*.xcuserstate
+ios/DerivedData/
+ios/build/
+ios/*.xcodeproj/project.xcworkspace/xcuserdata/
+ios/*.xcodeproj/xcuserdata/
+
+# Misc
+*.log
+*.lock
+*.tmp
+*.swp
