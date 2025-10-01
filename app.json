@@ -16,14 +16,21 @@
       "supportsTablet": true
     },
     "android": {
+      "buildType": "apk",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.frtklc.my_library"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "37ea983a-3fab-4f21-a47a-9a54ed2f46f8"
+      }
     }
   }
 }
