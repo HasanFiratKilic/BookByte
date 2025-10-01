@@ -2,11 +2,49 @@
 
 Bu proje, kullanıcıların kendi kitaplıklarını yönetebildiği bir Expo React Native uygulamasıdır. Firebase Authentication ile oturum açma/kayıt olma, Realtime Database ile kitap verilerini tutma, kitap ekleme/düzenleme/silme ve filtreleme özellikleri içerir.
 
+### Tanıtım
+
+My Library; okuduğunuz, okumayı planladığınız ve yarım bıraktığınız kitapları tek bir yerde toplamanıza yardımcı olan basit ve hızlı bir mobil uygulamadır. E-posta ile giriş yaparak kişisel kitaplığınızı oluşturur, kitaplara durum ve kategori atar, filtreler ile aradığınızı hızla bulursunuz. Minimal arayüzü ve pratik akışları ile kitap yönetimi deneyimini kolaylaştırır.
+
 ### Özellikler
 - **Kimlik Doğrulama**: Firebase Auth ile e-posta/şifre bazlı giriş ve kayıt
 - **Kitaplık Yönetimi**: Kitap ekle, güncelle, sil; durum ve kategori yönetimi
 - **Filtreleme ve Arama**: Durum/kategori seçiciler ve filtre kartları
 - **Modern Arayüz**: React Navigation, modal ve bildirim bileşenleri
+
+### Ekran Görüntüleri
+
+Aşağıdaki görselleri `assets/screenshots/` klasörüne bu dosya adlarıyla koyabilirsiniz. Yerleştirdikten sonra README otomatik olarak görselleri gösterecektir.
+
+- `assets/screenshots/01-sign-in.png` – Giriş ekranı
+- `assets/screenshots/02-sign-up.png` – Kayıt ekranı
+- `assets/screenshots/03-library-empty.png` – Boş kitaplık
+- `assets/screenshots/04-library.png` – Kitap listesi
+- `assets/screenshots/05-save-book.png` – Kitap ekleme
+- `assets/screenshots/06-book-update.png` – Kitap detay/güncelleme
+- `assets/screenshots/07-filters.png` – Filtreler
+- `assets/screenshots/08-settings.png` – Ayarlar
+
+Önerilen çözünürlük: 1080×2340 veya cihazınızın doğal ekran çözünürlüğü.
+
+```startLine:endLine:assets/screenshots
+assets/screenshots/
+├─ 01-sign-in.png
+├─ 02-sign-up.png
+├─ 03-library-empty.png
+├─ 04-library.png
+├─ 05-save-book.png
+├─ 06-book-update.png
+├─ 07-filters.png
+└─ 08-settings.png
+```
+
+Örnek yerleşim:
+
+![Giriş](assets/screenshots/01-sign-in.png)
+![Kayıt](assets/screenshots/02-sign-up.png)
+![Kitaplık](assets/screenshots/04-library.png)
+![Kitap Ekle](assets/screenshots/05-save-book.png)
 
 ### Teknolojiler
 - **Expo** `~54` ve **React Native** `0.81`
